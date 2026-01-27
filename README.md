@@ -51,8 +51,6 @@ or Software Engineer**.
 ## 📜 Certifications
 - Ruby Programming Course – Udemy  
 - Ruby on Rails Course – Udemy  
-- HTML Certification – KnowledgeGate.ai  
-- CSS Certification – KnowledgeGate.ai  
 
 ---
 
