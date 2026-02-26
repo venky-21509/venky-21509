@@ -1,69 +1,141 @@
+# Hi, I'm Venkatesh P 👋
 
-
-# Hi, I’m Venkatesh P 👋
-### Ruby on Rails Developer | Backend Developer | Fresher
-
+🚀 Ruby on Rails Backend Developer  
 📍 Hyderabad, India  
-📧 Email: venkeypothem21@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/venkey-pothem-480b06333  
-💻 GitHub: https://github.com/venky-21509  
+📧 venkeypothem21@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/venkey-pothem-480b06333)  
+💻 [GitHub](https://github.com/venky-21509)
 
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Science Engineering graduate with hands-on experience in **Ruby and Ruby on Rails**.
-I enjoy building backend-focused and full-stack web applications using **MVC architecture**, 
-**RESTful APIs**, and **relational databases**.
 
-I have built a complete Ruby on Rails project from scratch and understand real-world
-application flow, database design, validations, and authentication.
+Backend-focused developer with hands-on experience building and deploying production-ready Ruby on Rails applications.
 
-I am currently seeking **entry-level opportunities** as a **Ruby on Rails Developer, Backend Developer,
-or Software Engineer**.
+I design and build complete systems — from database schema and model associations to authentication, business logic validation, admin dashboards, and production deployment.
 
----
+I focus on:
+- Clean backend architecture
+- Database integrity
+- Real-world business constraints
+- Production deployment
 
-## 🛠️ Technical Skills
-- **Languages:** Ruby  
-- **Framework:** Ruby on Rails  
-- **Backend Concepts:** MVC Architecture, REST APIs, ActiveRecord  
-- **Database:** PostgreSQL, MySQL, SQLite  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Tools:** Git, GitHub, Linux (Ubuntu), VS Code  
+Currently seeking entry-level Backend / Ruby on Rails / Software Engineer roles in startup environments where ownership and execution matter.
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tech Stack
 
-### 📌 Appointment Booking System – Ruby on Rails
-🔗 Repository: https://github.com/venky-21509/appointment-booking  
+### 💻 Languages
+- Ruby
+- SQL
+- JavaScript
+- HTML, CSS
 
-**Description:**
-- Developed a full-stack web application using Ruby on Rails
-- Implemented authentication and role-based access control
-- Appointment scheduling with status workflow
-- PostgreSQL database with ActiveRecord associations
-- Followed MVC architecture and RESTful routing
-- Version controlled using Git & GitHub
+### ⚙️ Framework & Backend
+- Ruby on Rails
+- MVC Architecture
+- RESTful APIs
+- ActiveRecord
+- Validations & Callbacks
+- Associations & Database Design
+
+### 🗄️ Databases
+- PostgreSQL (Production)
+- SQLite
+- MySQL
+
+### 🔐 Authentication & Admin
+- Devise (Authentication)
+- Role-Based Access Control
+- ActiveAdmin Dashboard
+
+### 🚀 Deployment & Tools
+- Render (Production Deployment)
+- Git & GitHub
+- Linux (Ubuntu)
+- VS Code
 
 ---
 
-## 📜 Certifications
-- Ruby Programming Course – Udemy  
-- Ruby on Rails Course – Udemy  
+# 🚀 Featured Project
+
+## 📌 Appointment Booking System (Live Production App)
+
+🌐 **Live Demo:**  
+https://appointment-booking-yr62.onrender.com  
+
+🔗 **Source Code:**  
+https://github.com/venky-21509/appointment-booking  
 
 ---
 
-## 🎯 Career Goals
-- Grow as a strong backend engineer
-- Work on scalable Rails applications
-- Learn industry best practices and clean code
-- Contribute to impactful software products
+### 🔹 What I Built
+
+- Full-stack appointment scheduling system
+- Authentication with Devise
+- Role-based access (Admin & Customer)
+- Admin dashboard using ActiveAdmin
+- Appointment lifecycle workflow (New → Confirmed → Completed → Cancelled)
+- CSV export for reporting
+- Search and filtering
 
 ---
 
-## 📫 Contact Me
+### 🔹 Advanced Backend Logic
+
+#### ✅ Time Conflict Prevention (Custom Guard Logic)
+
+Created a reusable appointment guard system that:
+
+- Prevents double booking of time slots
+- Enforces provider-based slot uniqueness
+- Validates conflicts before database persistence
+- Handles edge cases at model level
+
+This ensures operational reliability and database integrity.
+
+---
+
+### 🔹 Database & Architecture
+
+- Designed relational schema with proper associations
+- Implemented scoped uniqueness validations
+- Used PostgreSQL in production
+- Managed migrations and production database setup
+
+---
+
+### 🔹 Production Deployment
+
+- Deployed to Render
+- Configured environment variables
+- Ran production migrations
+- Debugged deployment issues
+- Managed build process & asset precompilation
+
+---
+
+# 📈 GitHub Activity
+
+- Actively building Rails projects
+- Maintaining production-deployed applications
+- Developing reusable backend components (appointment_guard gem)
+
+---
+
+# 🎯 Current Focus
+
+- Backend system design
+- Database optimization
+- Clean architecture in Rails
+- Scalable application development
+
+---
+
+## 📫 Let’s Connect
+
 📧 venkeypothem21@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/venkey-pothem-480b06333  
 
-⭐ *Feel free to explore my repositories and connect with me!*
+If you're building something interesting and need a backend-focused Rails developer — let's talk.
